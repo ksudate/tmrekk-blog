@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://blog.tmrekk.dev"
 languageCode = "ja-jp"
-title = "tmrekk.dev"
+title = "blog.tmrekk.dev"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
