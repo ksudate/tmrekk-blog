@@ -1,6 +1,6 @@
 ---
 title: "Vimでyamlを書くための環境を整える"
-date: 2021-01-16T19:22:16+09:00
+date: 2021-01-16T20:04:30+09:00
 draft: true
 
 # post thumb
@@ -17,5 +17,7 @@ tags:
   - "Yaml"
 
 # post type
-type: "featured"
+type: "post"
 ---
+
+

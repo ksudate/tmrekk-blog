@@ -39,7 +39,6 @@ disqusShortname = ""
   [[params.plugins.js]]
   URL = "plugins/search/search.js"
 
-
 ############################## navigation ###############################
 [menu]
 
@@ -69,6 +68,11 @@ disqusShortname = ""
   name = "Post"
   URL = "blog"
   weight = 2
+
+  [[menu.footer]]
+  name = "Portfolio"
+  URL = "https://tmrekk.dev"
+  weight = 3
 
 #################### default parameters ################################
 [params]
