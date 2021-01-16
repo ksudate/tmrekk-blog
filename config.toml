@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://blog.tmrekk.dev"
 languageCode = "ja-jp"
 title = "tmrekk.dev"
 theme = "liva-hugo"
@@ -76,7 +76,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "tmrekk"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # copyright
