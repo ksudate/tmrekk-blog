@@ -55,8 +55,8 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+  name = "Portfolio"
+  URL = "https://tmrekk.dev"
   weight = 3
 
   # footer menu
@@ -70,12 +70,6 @@ disqusShortname = ""
   URL = "blog"
   weight = 2
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
-
-
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
@@ -85,10 +79,6 @@ description = "This is meta description"
 author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
-# Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
 # copyright
 copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
 
@@ -101,26 +91,13 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
   [params.search]
   enable = true
 
-############################ news letter ########################
-[params.newsletter]
-enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
-
-
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
-
-
 ############################# social site ########################
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/tmrekk121"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/tmrekk121"
