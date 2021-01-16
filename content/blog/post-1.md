@@ -99,7 +99,7 @@ customTagsの設定によりyaml-language-serverが!Subや!Ref等をエラーと
 [customTags参考](https://github.com/redhat-developer/yaml-language-server/issues/77#issuecomment-474864515)
 ## efm-langserverの設定
 
-上記の設定の追加により、efm-langserverが有効になったのですが、まだyamllintはまだ動作していません。
+上記の設定の追加により、efm-langserverが有効になったのですが、まだyamllintは動作していません。
 
 yamllintが動作するよう設定を追加します。
 
